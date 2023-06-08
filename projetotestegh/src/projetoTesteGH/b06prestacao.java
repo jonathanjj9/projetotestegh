@@ -4,20 +4,12 @@
  */
 
 package projetoTesteGH;
-
+import javax.swing.JOptionPane;
 public class b06prestacao {
 
 	public static void main(String[] args) {
 
-		double prestacao, valor = 138.59, multa = 2;
-		int mes = 50;
-
-		multa = valor * (mes / 100);
-
-		prestacao = valor + (valor * (multa / 100));
-
-		System.out.println("Valor bruto: R$ " + valor);
-		System.out.printf("Valor corrigido com multa: R$ %.2f\n", +prestacao);
-		System.out.println("Meses pendentes: " + mes);
+	
+			String nota1 = JOptionPane.showInputDialog("Digite a 1º nota ");
 	}
 }
