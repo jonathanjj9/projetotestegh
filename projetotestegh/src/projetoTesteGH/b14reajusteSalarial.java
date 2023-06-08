@@ -9,11 +9,11 @@ public class b14reajusteSalarial {
 		
 		double salarioMensal = 6376.18;
 		double percentualReajuste = 30; 
-		double salarioAtualizado;
+		double salarioAtualizado ;
 		
 		salarioAtualizado =(salarioMensal * percentualReajuste)/100 + salarioMensal; 
 		
-		System.out.println("Salario atualizado com reajuste: R$ " + salarioAtualizado);
+		System.out.println("Salario atualizado com reajuste:R$ " + salarioAtualizado);
 		
 		}
 }
