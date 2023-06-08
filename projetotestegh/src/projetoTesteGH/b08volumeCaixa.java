@@ -22,7 +22,7 @@ public class b08volumeCaixa {
 		
 		double volume = largura * altura * comprimento;
 		
-		JOptionPane.showMessageDialog(null, "Volume da caixa: " + volume); 
+		JOptionPane.showMessageDialog(null, "Volume da caixa : " + volume); 
 		
 	}
 }
