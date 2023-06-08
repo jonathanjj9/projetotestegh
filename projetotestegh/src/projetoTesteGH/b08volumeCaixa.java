@@ -2,10 +2,6 @@ package projetoTesteGH;
 
 import javax.swing.JOptionPane;
 
-/**double largura = 25, altura = 20, comprimento = 15, volume;
-
-volume = largura * altura * comprimento;
-System.out.println("Volume da caixa: " + volume);**/
 
 
 public class b08volumeCaixa {
