@@ -19,7 +19,7 @@ public static void main(String[] args) {
 		double percentualVotosBrancos = (votosBrancos * 100) /totalVotos;
 		double percentualVotosNulos = (votosNulos * 100) / totalVotos;
 		
-	    System.out.println(" ************** Votos ****************25\n");
+	    System.out.println(" ************** Votos ****************\n");
 	    
 	    System.out.println("Candidato A: " + (votosA*100)/totalVotos + " %");
 	    System.out.println("Candidato B: " + (votosB*100)/totalVotos + " %");
