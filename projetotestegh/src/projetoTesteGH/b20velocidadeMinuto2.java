@@ -2,7 +2,7 @@ package projetoTesteGH;
 
 /**Calculo de velocidade por minuto**/
 
-public class b20velocidadeMinuto {
+public class b20velocidadeMinuto2 {
 
 		
 		public static void main(String[] args) {
